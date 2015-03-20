@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="google-api-services-plusDomains-v1-rev117-1.19.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-plusDomains/v1-rev117-1.19.1/ec772077b41aa76e659fc07f13c40806ac5929b/google-api-services-plusDomains-v1-rev117-1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-plusDomains/v1-rev117-1.19.1/66c156293bb9bde6e6f02c3669c882bda9bfa7c0/google-api-services-plusDomains-v1-rev117-1.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

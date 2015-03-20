@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PlusActivity$PlaceholderFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_weight="0.33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_floating_material_light"
+        android:orientation="vertical"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="300dp"
+            android:layout_height="220dp"
+            android:contentDescription="Profile Picture"
+            android:src="@drawable/ic_launcher"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_weight="0.67"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_deep_teal_500"
+        android:orientation="vertical">
+        <TextView android:id="@+id/profile_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="Hello User"
+            android:textSize="40sp"/>
+
+        <TextView android:id="@+id/profile_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.6"
+            android:gravity="center"
+            android:textStyle="italic"
+            android:text="Occupation\nOrganization\nAbout Me"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/button_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:layout_marginBottom="5dp"
+            android:text="Email"
+            android:background="@color/common_signin_btn_default_background"
+            android:textColor="@color/common_signin_btn_dark_text_default"
+            android:textSize="20sp"
+            android:layout_gravity="bottom"/>
+    </LinearLayout>
+</LinearLayout>

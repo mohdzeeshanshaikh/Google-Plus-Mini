@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Plus Mini</string>
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Circles</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="title_activity_friend_profile">Friend\'s Profile</string>
+</resources>
