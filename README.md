@@ -8,7 +8,7 @@ Download the apk (this is a signed apk) : GooglePlusMini.apk
 In terminal, simple run: adb install path-to-apk (if installing on plugged-in device) 
 or run adb -s emulator-5554 path-to-apk (if using avd)
 
-##Intro:
+##Introduction:
 The Current google+ app offers a variety of features. However, if you simply only want to see all your friends from different circles in a simple list view, this app provide that simplicity and save time when you searching for people in your circles. It allows users to choose their accounts and view all the circles they have as well as the people in each of the circles.
 
 ##Userguide:
