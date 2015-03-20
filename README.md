@@ -26,4 +26,5 @@ This version of GooglePlusMini is implemented based on Google+ Domains API. It u
 
 ###Navigation: 
 A simple ancestral navigation is implemented which from friend profile view takes us back to list of friends. And with the layout implementation, In order to navigate back to profile screen we just need to swipe right to left.
+
 _Apart from these, I've implemented a simple and attractive UI with center layouts and used custom launch icon._
