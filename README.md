@@ -1,4 +1,5 @@
 # GooglePlusMini
+A minimalistic version of the Google+ android application.
 
 ##Author Details:
 Mohd Zeeshan Shaikh <mohdzeeshan.shaikh@sjsu.edu>
